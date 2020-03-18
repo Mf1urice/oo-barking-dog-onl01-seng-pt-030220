@@ -1,5 +1,5 @@
 # Your code goes here!
 class Dog 
   def name=(dogs_name)
-    @this
+    @this_dogs_name
 end
